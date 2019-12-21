@@ -1,2 +1,2 @@
-# dumbways-
+# dumbways.id
 Seleksi Bootcamp
